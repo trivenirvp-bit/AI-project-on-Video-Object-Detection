@@ -17,5 +17,11 @@ Dataset
 - Sample videos from OpenCV (e.g., pedestrian detection video).
 - Any short video from YouTube (download and use for testing).
 - Custom recorded videos from your phone or webcam.
-
+## Tools Used
+- Python
+- Machine learning(Deep Learning)
+- NLP
 ########  Link of video https://youtu.be/a54fj732Hno
+
+## Author
+Triveni RV
